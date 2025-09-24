@@ -147,17 +147,3 @@ loadScript('https://cdn.jsdelivr.net/npm/toastify-js', 'toastifyPlugin')
     console.clear();
 });
 
-/* ===== Mensagem personalizada ===== */
-let ultimaMensagem = 0;
-plppdo.on("domChanged", () => {
-    const agora = Date.now();
-    if (agora - ultimaMensagem > 10000) { // mínimo 10s de intervalo
-        sendToast(
-            "Desenvolvedor Pietro, faz melhor ai o otario e tenta derrubar quero ver😂, Bjs do pietrao vagabundo(a)",
-            5000,
-            "top"
-        );
-        ultimaMensagem = agora;
-    }
-
-});
