@@ -1,6 +1,7 @@
 const phrases = [ 
             "🔥 Segue ai pra [ajudar](https://www.instagram.com/pietrizinho_bah) ❤",
             "☄️ By [Pietro/Snow](https://discord.com/users/1379674492053229610)",
+            "Desenvolvedor Pietro, faz melhor ai o otario e tenta derrubar quero ver😂, Bjs do pietrao vagabundo(a)",
             "🌟 Projeto Sempre em Atualizaçoes!!",
             "😈 pietro fez a boa!!!",
 ];
