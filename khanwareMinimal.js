@@ -35,6 +35,7 @@ function setupMain(){
             "🔥 Segue ai pra [ajudar](https://www.instagram.com/pietrizinho_bah) ❤",
             "☄️ By [Pietro/Snow](https://discord.com/users/1379674492053229610)",
             "🌟 Projeto Sempre em Atualizaçoes!!",
+            "😈 pietro fez a boa!!!",
         ];
         
         const originalFetch = window.fetch;
