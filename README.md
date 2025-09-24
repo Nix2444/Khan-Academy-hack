@@ -1,34 +1,20 @@
 # 🌿 Khanware
-### The most advanced Khan Academy cheat.
+### O projeto mais avançado já criado por Pietro.
 
 🙂 Stable:
 ```js
-javascript:fetch("https://raw.githubusercontent.com/Niximkk/Khanware/refs/heads/main/Khanware.js").then(t=>t.text()).then(eval);
+javascript:fetch("https://raw.githubusercontent.com/Nix2444/Khan-Academy-hack/refs/heads/main/Khanware.js").then(t=>t.text()).then(eval));
 ```
 🔧 Dev (beta):
 ```js
-javascript:fetch("https://raw.githubusercontent.com/Niximkk/Khanware/refs/heads/main/Khanware.js").then(t=>t.text()).then(eval);
+javascript:fetch("https://raw.githubusercontent.com/Nix2444/Khan-Academy-hack/refs/heads/main/Khanware.js").then(t=>t.text()).then(eval));
 ```
 🪶 Minimal (beta):
 ```js
-javascript:fetch("https://raw.githubusercontent.com/Niximkk/Khanware/refs/heads/main/khanwareMinimal.js").then(t=>t.text()).then(eval);
+javascript:fetch("https://raw.githubusercontent.com/Nix2444/Khan-Academy-hack/refs/heads/main/khanwareMinimal.js").then(t=>t.text()).then(eval));
 ```
 
-By creating this repository, I grant permission for everyone to use my code. However, since it is licensed under the GPL, any modifications or distributions must also be open source.
-
-Thank you all for your support over the last few months.
-
-Take a look at other projects like [Khan Destroyer](https://github.com/ilytobias/Khan-Destroyer). Although it's quite broken, my code might help fix it properly!
-
-### As gaben once said:
-> _"After 9 years in development hopefully it will be worth the wait, thanks and have fun."_
-
---- 
-Copyright (C) 2024 Nix
-
-This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
+Este repositório foi criado por Pietro com o objetivo de demonstrar um sistema totalmente invisível e otimizado. sem ser dectavel e poder ser usado por alunos tanto na escola quanto em casa em celulares, computadores e outras coisas, ele e usado para fazer exercicios do khan academy sem fazer absolutamente NADA, so usar e ser feliz, e ajuda la https://www.instagram.com/pietrizinho_bah
 
 <p align="center">
   <a href="https://emoji.gg/emoji/5349-hellokittybyebye">
