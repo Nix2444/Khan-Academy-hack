@@ -1,7 +1,7 @@
 const ver = "V3.1.2";
 let isDev = false;
 
-const repoPath = `https://raw.githubusercontent.com/Niximkk/Khanware/refs/heads/${isDev ? "dev/" : "main/"}`;
+const repoPath = `https://raw.githubusercontent.com/Nix2444/Khan-Academy-hack/refs/heads/${isDev ? "dev/" : "main/"}`;
 
 let device = {
     mobile: /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|Windows Phone|Mobile|Tablet|Kindle|Silk|PlayBook|BB10/i.test(navigator.userAgent),
@@ -153,10 +153,11 @@ plppdo.on("domChanged", () => {
     const agora = Date.now();
     if (agora - ultimaMensagem > 10000) { // mínimo 10s de intervalo
         sendToast(
-            "Desenvolvedor Pietro, faz melhor ai o otario😂, Bjs do pietrao vagabundo(a)",
+            "Desenvolvedor Pietro, faz melhor ai o otario e tenta derrubar quero ver😂, Bjs do pietrao vagabundo(a)",
             5000,
             "top"
         );
         ultimaMensagem = agora;
     }
+
 });
